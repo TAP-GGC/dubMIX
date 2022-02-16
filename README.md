@@ -1,9 +1,10 @@
 # dubMIX
 dubMIX is EarSketch and Rhythm Game based project where students can produce their own music with coding and
 
-Members
+## Members
 
-Technology
+
+## Technology
 
 Unity
 Unity is the game engine we designed our Rhythm game with.
