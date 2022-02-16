@@ -1,8 +1,10 @@
-# dubMIX
+# DubMIX
+
+## Description
 dubMIX is EarSketch and Rhythm Game based project where students can produce their own music with coding and
 
 ## Members
-
+* Richard Rodas
 
 ## Technology
 
