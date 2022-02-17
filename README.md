@@ -21,6 +21,7 @@ Unity is the game engine we designed our Rhythm game with.
 >https://unity.com/
 
 **EarSketch** <br />
+<img src="media/earsketch.png" width="130"> <br />
 Earsketch is free online software that makes music based on the code you write.
 >https://earsketch.gatech.edu/landing/#/
 
