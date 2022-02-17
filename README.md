@@ -17,6 +17,7 @@ DubMIX is a rhythm game that uses EarSketch and LMMS to generate notes based on 
 ## Technology
 
 **Unity** <br />
+<img src="media/unity.png" width="130"> <br />
 Unity is the game engine we designed our Rhythm game with.
 >https://unity.com/
 
@@ -26,6 +27,7 @@ Earsketch is free online software that makes music based on the code you write.
 >https://earsketch.gatech.edu/landing/#/
 
 **Makey-Makey** <br />
+<img src="media/makeymakey.png" width="130"> <br />
 Our team also utilized Makey-Makey, a 2D/3d game hardware controller.
 >https://makeymakey.com/
 
