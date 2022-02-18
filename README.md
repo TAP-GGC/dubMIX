@@ -35,7 +35,7 @@ Our team also utilized Makey-Makey, a 2D/3d game hardware controller.
  1. Install Unity and Unity Hub
  2. Install LMMS
  3. Install Visual Studio Code
- 
+ 4. Open web browser and navigate to the Ear Sketch website
  Operating System: Windows 8 or higher, MacOS
  Programming Language: C# and Python
   
