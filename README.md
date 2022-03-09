@@ -6,7 +6,6 @@ DubMIX is a rhythm game that uses EarSketch and LMMS to generate notes based on 
 ##  Team Members
 * Richard Rodas 😂
 * Jin Lee
-* Alexis Cochrane ;)
 
 ## Publications
   To ADD Later
