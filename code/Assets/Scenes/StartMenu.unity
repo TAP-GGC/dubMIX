@@ -2360,7 +2360,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 8b81ee295cb66bd4c87caa5b0b22dcf7, type: 3}
+  m_audioClip: {fileID: 8300000, guid: bfba6702e5eeff7439675436a006b356, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -3835,7 +3835,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1635423990}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 7d71d7501a335d740abf6ee535254a04, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 9ab2f27e9d9d82e4b8db2ca751ad5ce7, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -3845,7 +3845,7 @@ VideoPlayer:
   m_TargetMaterialProperty: _MainTex
   m_RenderMode: 2
   m_AspectRatio: 2
-  m_DataSource: 1
+  m_DataSource: 0
   m_PlaybackSpeed: 1
   m_AudioOutputMode: 2
   m_TargetAudioSources:
@@ -3888,7 +3888,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f8b269d576a337549bf7ca0ed1e216ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  url: https://techambassadors-ggc.github.io/dubMIX/code/Assets/VideoPlayerMenu/video.mp4
+  url: 
   vidplayer: {fileID: 1635423991}
 --- !u!1 &1643416229
 GameObject:
