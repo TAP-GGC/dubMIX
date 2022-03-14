@@ -3851,8 +3851,8 @@ VideoPlayer:
   m_TargetAudioSources:
   - {fileID: 0}
   m_DirectAudioVolumes:
-  - 1
-  m_Url: 
+  - 0
+  m_Url: https://techambassadors-ggc.github.io/dubMIX/code/Assets/VideoPlayerMenu/video.mp4
   m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 00
   m_ControlledAudioTrackCount: 1
