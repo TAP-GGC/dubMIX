@@ -3888,7 +3888,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f8b269d576a337549bf7ca0ed1e216ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  url: 
+  url: https://techambassadors-ggc.github.io/dubMIX/code/Assets/VideoPlayerMenu/video.mp4
   vidplayer: {fileID: 1635423991}
 --- !u!1 &1643416229
 GameObject:
