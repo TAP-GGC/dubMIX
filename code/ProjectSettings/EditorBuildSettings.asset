@@ -18,6 +18,12 @@ EditorBuildSettings:
     path: Assets/Scenes/HardLevel.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
+    path: Assets/Scenes/Track4.unity
+    guid: b1219260e4508b142b51d8edf4fda013
+  - enabled: 1
+    path: Assets/Scenes/Track5.unity
+    guid: 211a4ee789fe0cf448e17cf46c3583f5
+  - enabled: 1
     path: Assets/Scenes/2Player(Easy).unity
     guid: cebfe1e944cca9643b06a56555273890
   - enabled: 1
@@ -26,4 +32,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/2Player(Hard).unity
     guid: d41994991b0fe56429e9740f924b46c4
+  - enabled: 1
+    path: Assets/Scenes/2Player(Track4).unity
+    guid: c8574917b21c31946905bd366f16ae70
+  - enabled: 1
+    path: Assets/Scenes/2Player(Track5).unity
+    guid: 1285728f461b76b42a9200e726e7266b
   m_configObjects: {}
