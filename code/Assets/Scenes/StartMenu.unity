@@ -215,7 +215,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 2Player(Easy)
+          m_StringArgument: 2Player(Track1)
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &58209075
@@ -1069,7 +1069,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: EasyLevel
+          m_StringArgument: Track1
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &269929237
@@ -2145,7 +2145,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 2Player(Medium)
+          m_StringArgument: 2Player(Track2)
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &584618234
@@ -4257,7 +4257,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: MediumLevel
+          m_StringArgument: Track2
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1458136834
@@ -5330,7 +5330,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: HardLevel
+          m_StringArgument: Track3
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1864681348
@@ -5535,7 +5535,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 2Player(Hard)
+          m_StringArgument: 2Player(Track3)
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1922496987
