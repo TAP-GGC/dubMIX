@@ -11,7 +11,7 @@ DubMIX is a rhythm game that uses EarSketch and LMMS to generate notes based on 
   To ADD Later
 
 ## Outreach Activities
-  To ADD Later
+  1. TAP Expo, March 17, 2022, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
 
 ## Technology
 
