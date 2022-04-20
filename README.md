@@ -8,10 +8,12 @@ DubMIX is a rhythm game that uses EarSketch and LMMS to generate notes based on 
 * Jin Lee
 
 ## Publications
-  To ADD Later
+  1. CCSC abstract - Jin Lee, Richard Rodas. DubMix, CCSC: Southeastern Region (CCSC:SE), [dates TBA]
+  2. CREATE Symposium Poster, [date TBA], Georgia Gwinnett College
 
 ## Outreach Activities
   1. TAP Expo, March 17, 2022, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
+  2. Class Workshops, April 4-19 2022, Georgia Gwinnett College: to promote IT field to non-IT and IT students.
 
 ## Technology
 
@@ -25,10 +27,10 @@ Unity is the game engine we designed our Rhythm game with.
 Earsketch is free online software that makes music based on the code you write.
 >https://earsketch.gatech.edu/landing/#/
 
-**Makey-Makey** <br />
-<img src="media/makeymakey.png" width="120"> <br />
-Our team also utilized Makey-Makey, a 2D/3d game hardware controller.
->https://makeymakey.com/
+**LMMS** <br />
+<img src="media/LMMS_logo.png" width="120"> <br />
+Our team also utilized LMMS, a digital audio workstation application program.
+>https://lmms.io/
 
 ## Project Setup
  1. Install Unity and Unity Hub
