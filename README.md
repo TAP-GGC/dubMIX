@@ -7,11 +7,20 @@ DubMIX is a rhythm game that uses EarSketch and LMMS to generate notes based on 
 * Richard Rodas 😂
 * Jin Lee
 
+## Advisors
+* Dr. Cengiz Gunay
+* Dr. Rahaf Barakat
+
 ## Publications
-  To ADD Later
+  1. CCSC abstract - Jin Lee, Richard Rodas. DubMix, CCSC: Southeastern Region (CCSC:SE), [dates TBA]
+  2. CREATE Symposium Poster, [April 28,2022], Georgia Gwinnett College
 
 ## Outreach Activities
-  1. TAP Expo, March 17, 2022, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
+  1. TAP Expo, March 17, 2022, Georgia Gwinnett College: To promote IT field and the TAP program to college students.
+  2. Class Workshops, April 4, April 11,April 19, 2022, Georgia Gwinnett College: to promote IT field to non-IT and IT students.
+  3. Super Saturday Series (S3), April 30, Georgia Gwinnett College: middle and high school girls to promote IT and STEM career.
+  4. Title 1 School Outreach Programming Activity, April 23, 2022, Georgia Gwinnett College: Teaching young, non-English speaking children about programming in the IT field
+
 
 ## Technology
 
@@ -25,10 +34,10 @@ Unity is the game engine we designed our Rhythm game with.
 Earsketch is free online software that makes music based on the code you write.
 >https://earsketch.gatech.edu/landing/#/
 
-**Makey-Makey** <br />
-<img src="media/makeymakey.png" width="120"> <br />
-Our team also utilized Makey-Makey, a 2D/3d game hardware controller.
->https://makeymakey.com/
+**LMMS** <br />
+<img src="media/LMMS_logo.png" width="120"> <br />
+Our team also utilized LMMS, a digital audio workstation application program.
+>https://lmms.io/
 
 ## Project Setup
  1. Install Unity and Unity Hub
@@ -37,4 +46,9 @@ Our team also utilized Makey-Makey, a 2D/3d game hardware controller.
  4. Open web browser and navigate to the Ear Sketch website
  Operating System: Windows 8 or higher, MacOS
  Programming Language: C# and Python
-  
+
+## Usage
+ ### EarSketch
+ 1. Follow this link to EarSketch: https://earsketch.gatech.edu/landing/#/
+ 2. Click on "Start Coding".
+ 3. Enjoy! 
