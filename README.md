@@ -18,8 +18,9 @@ DubMIX is a rhythm game that uses EarSketch and LMMS to generate notes based on 
 ## Outreach Activities
   1. TAP Expo, March 17, 2022, Georgia Gwinnett College: To promote IT field and the TAP program to college students.
   2. Class Workshops, April 4, April 11,April 19, 2022, Georgia Gwinnett College: to promote IT field to non-IT and IT students.
-  3. Super Saturday Series (S3), April 30, Georgia Gwinnett College: middle and high school girls to promote IT and
-STEM career
+  3. Super Saturday Series (S3), April 30, Georgia Gwinnett College: middle and high school girls to promote IT and STEM career.
+  4. Title 1 School Outreach Programming Activity, April 23, 2022, Georgia Gwinnett College: Teaching young, non-English speaking children about programming in the IT field
+
 
 ## Technology
 
