@@ -7,6 +7,10 @@ DubMIX is a rhythm game that uses EarSketch and LMMS to generate notes based on 
 * Richard Rodas 😂
 * Jin Lee
 
+## Advisors
+* Dr. Cengiz Gunay
+* Dr. Rahaf Barakat
+
 ## Publications
   1. CCSC abstract - Jin Lee, Richard Rodas. DubMix, CCSC: Southeastern Region (CCSC:SE), [dates TBA]
   2. CREATE Symposium Poster, [April 28,2022], Georgia Gwinnett College
@@ -41,4 +45,9 @@ Our team also utilized LMMS, a digital audio workstation application program.
  4. Open web browser and navigate to the Ear Sketch website
  Operating System: Windows 8 or higher, MacOS
  Programming Language: C# and Python
-  
+
+## Usage
+ ### EarSketch
+ 1. Follow this link to EarSketch: https://earsketch.gatech.edu/landing/#/
+ 2. Click on "Start Coding".
+ 3. Enjoy! 
