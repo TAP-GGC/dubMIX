@@ -9,12 +9,13 @@ DubMIX is a rhythm game that uses EarSketch and LMMS to generate notes based on 
 
 ## Publications
   1. CCSC abstract - Jin Lee, Richard Rodas. DubMix, CCSC: Southeastern Region (CCSC:SE), [dates TBA]
-  2. CREATE Symposium Poster, [date TBA], Georgia Gwinnett College
+  2. CREATE Symposium Poster, [April 28,2022], Georgia Gwinnett College
 
 ## Outreach Activities
-  1. TAP Expo, March 17, 2022, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
-  2. Class Workshops, April 4-19 2022, Georgia Gwinnett College: to promote IT field to non-IT and IT students.
-  3. Super Saturday Series (S3), April 30, Georgia Gwinnett College: Promote STEM and IT career to middle school and high school girls.
+  1. TAP Expo, March 17, 2022, Georgia Gwinnett College: To promote IT field and the TAP program to college students.
+  2. Class Workshops, April 4, April 11,April 19, 2022, Georgia Gwinnett College: to promote IT field to non-IT and IT students.
+  3. Super Saturday Series (S3), April 30, Georgia Gwinnett College: middle and high school girls to promote IT and
+STEM career
 
 ## Technology
 
