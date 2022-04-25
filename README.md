@@ -20,6 +20,7 @@ DubMIX is a rhythm game that uses EarSketch and LMMS to generate notes based on 
   2. Class Workshops, April 4, April 11,April 19, 2022, Georgia Gwinnett College: to promote IT field to non-IT and IT students.
   3. Super Saturday Series (S3), April 30, Georgia Gwinnett College: middle and high school girls to promote IT and STEM career.
   4. Title 1 School Outreach Programming Activity, April 23, 2022, Georgia Gwinnett College: Teaching young, non-English speaking children about programming in the IT field
+  5. Stars Poster Presentation, April 14, Georgia Gwinnett College: Showcase Poster and explain collected data.
 
 
 ## Technology
@@ -51,4 +52,5 @@ Our team also utilized LMMS, a digital audio workstation application program.
  ### EarSketch
  1. Follow this link to EarSketch: https://earsketch.gatech.edu/landing/#/
  2. Click on "Start Coding".
- 3. Enjoy! 
+ 3. To understand the basics: [Click HERE](https://github.com/TechAmbassadors-GGC/dubMIX/blob/e14a96a373bccf488b77035f53d5206cc5bd5498/documents/TAP%20Workshop.pptx). 
+ 4. Mix the Music!
